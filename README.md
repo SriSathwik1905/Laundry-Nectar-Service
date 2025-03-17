@@ -99,7 +99,7 @@
 ### Agenda: Final Feature Implementation & Admin Panel Discussion
 **Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
 
-**Mode:** Online
+**Mode:** Offline(Developer's PG)
 
 **Discussion Points:**
 - Reviewed implementation of scheduling and tracking features.
