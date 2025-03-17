@@ -51,6 +51,7 @@
 ## Meeting 3 - February 21, 2025
 ### Agenda: Sprint Progress Review & Feature Enhancement
 **Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
+
 **Mode:** Online
 
 **Discussion Points:**
@@ -74,6 +75,7 @@
 ## Meeting 4 - February 28, 2025
 ### Agenda: Pickup, Tracking & Trust Factors Discussion
 **Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
+
 **Mode:** Online
 
 **Discussion Points:**
@@ -96,6 +98,7 @@
 ## Meeting 5 - March 7, 2025
 ### Agenda: Final Feature Implementation & Admin Panel Discussion
 **Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
+
 **Mode:** Online
 
 **Discussion Points:**
