@@ -68,7 +68,7 @@
 
 ## Meeting 4 - February 28, 2025
 ### Agenda: Pickup, Tracking & Trust Factors Discussion
-**Attendees:** Scrum Master, Product Owner, Development Team
+**Attendees:** Scrum Master, Product Owner, Developer
 
 **Discussion Points:**
 - Evaluated progress on discount and pricing features.
