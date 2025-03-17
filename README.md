@@ -2,7 +2,7 @@
 
 ## Meeting 1 - February 6, 2025
 ### Agenda: Project Start & Initial User Stories Discussion
-**Attendees:** Scrum Master, Product Owner, Developer
+**Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
 
 **Discussion Points:**
 - Project scope and objectives.
@@ -24,7 +24,7 @@
 
 ## Meeting 2 - February 14, 2025
 ### Agenda: User Story Refinement & Sprint Planning
-**Attendees:** Scrum Master, Product Owner, Developer
+**Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
 
 **Discussion Points:**
 - Reviewed initial demands.
@@ -46,8 +46,7 @@
 
 ## Meeting 3 - February 21, 2025
 ### Agenda: Sprint Progress Review & Feature Enhancement
-**Attendees:** Scrum Master, Product Owner, Developer
-
+**Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
 **Discussion Points:**
 - Reviewed the implementation of previous sprint tasks.
 - Introduced pricing and discount-related user stories:
@@ -68,7 +67,7 @@
 
 ## Meeting 4 - February 28, 2025
 ### Agenda: Pickup, Tracking & Trust Factors Discussion
-**Attendees:** Scrum Master, Product Owner, Developer
+**Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
 
 **Discussion Points:**
 - Evaluated progress on discount and pricing features.
@@ -89,7 +88,7 @@
 
 ## Meeting 5 - March 7, 2025
 ### Agenda: Final Feature Implementation & Admin Panel Discussion
-**Attendees:** Scrum Master, Product Owner, Developer
+**Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
 
 **Discussion Points:**
 - Reviewed implementation of scheduling and tracking features.
