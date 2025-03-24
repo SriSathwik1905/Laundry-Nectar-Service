@@ -1,5 +1,5 @@
 # Scrum Meeting Minutes
-
+ 
 ## Meeting 1 - February 6, 2025
 ### Agenda: Project Start & Initial User Stories Discussion
 **Attendees:** Om Bandyopadhyay(Scrum Master), Chirag Agrawal(Product Owner), P. Sri Sathwik(Developer)
