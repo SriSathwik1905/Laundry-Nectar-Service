@@ -117,6 +117,5 @@
 - No use of real-time data processing, because it was not deemed necessary.
 - The product owner asserted on having a customer review section for the betterment of the app.
 - The owner also asserted for add-on services, such as stain treatment, fabric softener, eco-friendly detergent, and hang dry. The developer confirmed the addition of these services to the web app.
-
----
+----
 
